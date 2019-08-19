@@ -1,5 +1,7 @@
 def main():
     print("Hello world")
+    viola()
+    urmom()
 
 
 def urmom():
@@ -13,10 +15,3 @@ def viola():
 if __name__ == "__main__":
     main()
 
-
-if __name__ == "__urmom__":
-    urmom()
-
-
-if __name__ == "__viola__":
-    viola()
